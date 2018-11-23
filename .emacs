@@ -18,3 +18,9 @@
 (setq org-startup-indented t)
 (setq org-startup-folded "showall")
 (setq org-directory "~/org")
+
+;; Adding font faces
+
+(setq org-latex-pdf-process '("xelatex -interaction nonstopmode %f" "xelatex -interaction nonstopmode %f"))
+
+(load-theme 'misterioso)
