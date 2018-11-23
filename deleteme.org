@@ -1,0 +1,29 @@
+* So this is an org mode thing. 
+
+** This is a subheading. 
+
+*** Why can't I style any of this?
+
++ One
++ two
++ three
++ four
++ five
+
+OK, so.....lets try one where you change the order of things.
+This is done by holding down M and arrow keys.  
+
++ five
++ three
++ two
++ four
++ one
+
+nice. OK, here's how links work. 
+
+C-c C-l 
+
+[[www.nikhilvijayan.com][my website]]
+
+
+

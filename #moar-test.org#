@@ -1,0 +1,24 @@
+* This is a headline
+** This is another headline. 
+
+*why* won't this become bold? 
+
+
++ Do some Ruby stuff
++ Learn how emacs works
+1. Milk
+2. Things
+   - Organic
+   - Thing
+3. Cheese
+4. Eggs
+
+
+
+To buy: 
+
+Let's try to make something *bold*. 
+
+/italic/ 
+=verbatim=
+[[https://devhints.io/org-mode][cheat sheet]]

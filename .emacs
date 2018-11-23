@@ -7,6 +7,8 @@
 
 ;; set up fonts
 
+(set-frame-font "Inconsolata 12" nil t)
+
 ;; get rid of the toolbar
 
 (if (fboundp 'scroll-bar-mode) (scroll-bar-mode -1))
